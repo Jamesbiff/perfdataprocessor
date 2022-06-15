@@ -1,0 +1,14 @@
+event,host=IE-023381 title="Feature Start",text="Chrome" 1646902291948
+event,host=IE-023381 title="Feature Start",text="Edge" 1646902365788
+event,host=IE-023381 title="Feature Start",text="Excel" 1646902441784
+event,host=IE-023381 title="Feature Start",text="Git" 1646902842347
+event,host=IE-023381 title="Feature Start",text="Maven" 1646902856635
+event,host=IE-023381 title="Feature Start",text="Notepad++" 1646904051343
+event,host=IE-023381 title="Feature Start",text="Onedrive" 1646904072703
+event,host=IE-023381 title="Feature Start",text="Outlook" 1646904082302
+event,host=IE-023381 title="Feature Start",text="Powerpoint" 1646904612231
+event,host=IE-023381 title="Feature Start",text="React" 1646904819926
+event,host=IE-023381 title="Feature Start",text="Skype" 1646904902209
+event,host=IE-023381 title="Feature Start",text="Teams" 1646904924545
+event,host=IE-023381 title="Feature Start",text="Visual Studio 2022" 1646905447283
+event,host=IE-023381 title="Feature Start",text="Word" 1646905498962

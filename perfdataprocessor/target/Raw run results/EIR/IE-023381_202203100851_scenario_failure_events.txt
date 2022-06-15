@@ -1,0 +1,6 @@
+event,host=IE-023381 title="Scenario failed",text="Outlook_Delete folder containing an email" 1646904270537
+event,host=IE-023381 title="Scenario failed",text="Outlook_Create a contact" 1646904531831
+event,host=IE-023381 title="Scenario failed",text="Outlook_Delete a contact" 1646904566122
+event,host=IE-023381 title="Scenario failed",text="Powerpoint_Create a new presentation -- @1.3 " 1646904732660
+event,host=IE-023381 title="Scenario failed",text="Teams_Delete a member of the team" 1646905127369
+event,host=IE-023381 title="Scenario failed",text="Teams_Place a test call" 1646905320902

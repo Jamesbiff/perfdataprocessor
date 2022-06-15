@@ -1,0 +1,238 @@
+event,host=UK245321 title="Step Start",text="I have Chrome open on the BBC homepage" 1646228591279
+event,host=UK245321 title="Step Start",text="I follow the news link in chrome" 1646228594693
+event,host=UK245321 title="Step Start",text="I am on the BBC news homepage in chrome" 1646228595960
+event,host=UK245321 title="Step Start",text="I have Chrome open on the BBC homepage" 1646228598391
+event,host=UK245321 title="Step Start",text="I can open multiple tabs in chrome" 1646228602316
+event,host=UK245321 title="Step Start",text="I have Edge open on the BBC homepage" 1646228661720
+event,host=UK245321 title="Step Start",text="I follow the news link in edge" 1646228686176
+event,host=UK245321 title="Step Start",text="I am on the BBC homepage in edge" 1646228687474
+event,host=UK245321 title="Step Start",text="I have Edge open on the BBC homepage" 1646228690921
+event,host=UK245321 title="Step Start",text="I can open multiple tabs in edge" 1646228695479
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646228757126
+event,host=UK245321 title="Step Start",text="we insert a large group of data" 1646228765607
+event,host=UK245321 title="Step Start",text="the data \"Random_number\" will appear within \"A1\"" 1646228771405
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"formatcells.xlsx\"" 1646228775988
+event,host=UK245321 title="Step Start",text="we use the freeze panes functionality" 1646228783850
+event,host=UK245321 title="Step Start",text="the freeze pane function will be active" 1646228786905
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"formatcells.xlsx\"" 1646228791816
+event,host=UK245321 title="Step Start",text="we format a group of cells" 1646228799933
+event,host=UK245321 title="Step Start",text="the cells will be formatted" 1646228803015
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"sortcolumn.xlsx\"" 1646228810706
+event,host=UK245321 title="Step Start",text="we sort a column to ascending order" 1646228818509
+event,host=UK245321 title="Step Start",text="the column data will be in an ascended order" 1646228821129
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"largeexcelfile.xlsx\"" 1646228829343
+event,host=UK245321 title="Step Start",text="the workbook will open" 1646228837476
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646228842526
+event,host=UK245321 title="Step Start",text="we click on another tab \"2\"" 1646228850602
+event,host=UK245321 title="Step Start",text="we import a csv file into spreadsheet" 1646228854140
+event,host=UK245321 title="Step Start",text="the csv data will be imported" 1646228879949
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"copyandsearch.xlsx\"" 1646228885390
+event,host=UK245321 title="Step Start",text="we copy a block of cells" 1646228893585
+event,host=UK245321 title="Step Start",text="we click on another tab \"2\"" 1646228896334
+event,host=UK245321 title="Step Start",text="we paste the cells into a different location" 1646228898004
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"copyandsearch.xlsx\"" 1646228903327
+event,host=UK245321 title="Step Start",text="we search for data \"A2-Value\" within the spreadsheet" 1646228911229
+event,host=UK245321 title="Step Start",text="a range of search results will be retrieved" 1646228916416
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646228919791
+event,host=UK245321 title="Step Start",text="we delete a block of cells" 1646228927865
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"deepexcelrandom.xlsx\"" 1646228935639
+event,host=UK245321 title="Step Start",text="we scroll down the spreadsheet" 1646228943674
+event,host=UK245321 title="Step Start",text="we scroll up the spreadsheet" 1646228945126
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"imagesheet.xlsx\"" 1646228948392
+event,host=UK245321 title="Step Start",text="we insert an image \"chequeisinthemail.png\"" 1646228956632
+event,host=UK245321 title="Step Start",text="the image will be attached onto the spreadsheet" 1646228964600
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646228969174
+event,host=UK245321 title="Step Start",text="the workbook will open" 1646228977088
+event,host=UK245321 title="Step Start",text="we open excel" 1646228981802
+event,host=UK245321 title="Step Start",text="we select blank workbook from the home screen" 1646228984846
+event,host=UK245321 title="Step Start",text="a new spreadsheet will be created" 1646228985157
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"64kb Excel file.xlsx\"" 1646228988826
+event,host=UK245321 title="Step Start",text="the workbook will open" 1646228996749
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"ExcelCharts.xlsx\"" 1646229000709
+event,host=UK245321 title="Step Start",text="the workbook will open" 1646229008505
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"64kb Excel file.xlsx\"" 1646229012584
+event,host=UK245321 title="Step Start",text="we save the Excel document as a pdf file" 1646229020547
+event,host=UK245321 title="Step Start",text="we launch Excel and open file \"64kb Excel file.xlsx\"" 1646229034822
+event,host=UK245321 title="Step Start",text="we generate a chart from the worksheet data" 1646229044201
+event,host=UK245321 title="Step Start",text="the chart will display on spreadsheet" 1646229048511
+event,host=UK245321 title="Step Start",text="we have created an Excel document and have entered data into the spreadsheet" 1646229055446
+event,host=UK245321 title="Step Start",text="we save the spreadsheet \"ExcelSaveAsTest\"" 1646229060788
+event,host=UK245321 title="Step Start",text="the \"ExcelSaveAsTest.xlsx\" spreadsheet will be created and saved" 1646229070140
+event,host=UK245321 title="Step Start",text="we have created an Excel document and have entered data into the spreadsheet" 1646229075166
+event,host=UK245321 title="Step Start",text="we format a range of cells using colour scale option" 1646229080429
+event,host=UK245321 title="Step Start",text="the cells will be formatted according to the colour scale" 1646229082568
+event,host=UK245321 title="Step Start",text="run a maven build on pom.xml" 1646229087078
+event,host=UK245321 title="Step Start",text="I have opened Notepad++" 1646229182483
+event,host=UK245321 title="Step Start",text="I try to open a large file" 1646229183908
+event,host=UK245321 title="Step Start",text="The file is successfully opened" 1646229200007
+event,host=UK245321 title="Step Start",text="I have opened the Onedrive folder" 1646229203012
+event,host=UK245321 title="Step Start",text="I add a file to the Onedrive folder" 1646229203211
+event,host=UK245321 title="Step Start",text="The file is added successfully and uploaded" 1646229208225
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229214377
+event,host=UK245321 title="Step Start",text="we have received an email with a pdf attachment" 1646229221224
+event,host=UK245321 title="Step Start",text="we single click on the attachment" 1646229236144
+event,host=UK245321 title="Step Start",text="the attachment preview will display within the email" 1646229244112
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229246670
+event,host=UK245321 title="Step Start",text="we have received an email with a pdf attachment" 1646229258819
+event,host=UK245321 title="Step Start",text="we save the attachment to the machine" 1646229272427
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229290934
+event,host=UK245321 title="Step Start",text="we create an email with attachments" 1646229300052
+event,host=UK245321 title="Step Start",text="we send the email" 1646229317330
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229327920
+event,host=UK245321 title="Step Start",text="we have received an email with a pdf attachment" 1646229333320
+event,host=UK245321 title="Step Start",text="we archive an email" 1646229350620
+event,host=UK245321 title="Step Start",text="the email can be found in the archive folder" 1646229362084
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229364078
+event,host=UK245321 title="Step Start",text="we have received an email with a pdf attachment" 1646229369775
+event,host=UK245321 title="Step Start",text="we open the received email" 1646229382230
+event,host=UK245321 title="Step Start",text="then the email will open in a new window" 1646229393854
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229394661
+event,host=UK245321 title="Step Start",text="we have received an email with a pdf attachment" 1646229403596
+event,host=UK245321 title="Step Start",text="we move an email into the folder" 1646229421767
+event,host=UK245321 title="Step Start",text="we delete the folder that contains an email" 1646229437371
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229498121
+event,host=UK245321 title="Step Start",text="we have received an email with a pdf attachment" 1646229503846
+event,host=UK245321 title="Step Start",text="we move an email into the folder" 1646229516876
+event,host=UK245321 title="Step Start",text="the email will be found within the folder" 1646229532693
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229534360
+event,host=UK245321 title="Step Start",text="we create a folder" 1646229540057
+event,host=UK245321 title="Step Start",text="the folder exists" 1646229543936
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229544693
+event,host=UK245321 title="Step Start",text="I have switched to Calendar view" 1646229550019
+event,host=UK245321 title="Step Start",text="I click on Schedule View" 1646229550511
+event,host=UK245321 title="Step Start",text="the Schedule View will display" 1646229551361
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229552348
+event,host=UK245321 title="Step Start",text="we print as pdf from file menu" 1646229558174
+event,host=UK245321 title="Step Start",text="the pdf file will be created in the specified directory" 1646229566699
+event,host=UK245321 title="Step Start",text="we have created a meeting" 1646229568714
+event,host=UK245321 title="Step Start",text="I double click on the meeting from within the calendar" 1646229584769
+event,host=UK245321 title="Step Start",text="the meeting details will display" 1646229585704
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229586990
+event,host=UK245321 title="Step Start",text="I have switched to Calendar view" 1646229600164
+event,host=UK245321 title="Step Start",text="I invite a contact to a meeting and click send" 1646229600661
+event,host=UK245321 title="Step Start",text="we have created a meeting" 1646229610893
+event,host=UK245321 title="Step Start",text="I select cancel meeting from the menu" 1646229630616
+event,host=UK245321 title="Step Start",text="meeting window will close" 1646229635882
+event,host=UK245321 title="Step Start",text="the meeting is not in calendar" 1646229636037
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229636308
+event,host=UK245321 title="Step Start",text="we have received an email with a pdf attachment" 1646229641697
+event,host=UK245321 title="Step Start",text="we are on the contact page" 1646229654988
+event,host=UK245321 title="Step Start",text="we create a contact" 1646229660864
+event,host=UK245321 title="Step Start",text="the contact can be viewed in the contact list" 1646229668913
+event,host=UK245321 title="Step Start",text="we are on the contact page" 1646229669567
+event,host=UK245321 title="Step Start",text="we create a contact" 1646229675864
+event,host=UK245321 title="Step Start",text="we select the contact and click on the delete button" 1646229683565
+event,host=UK245321 title="Step Start",text="the contact will be deleted" 1646229684733
+event,host=UK245321 title="Step Start",text="we open outlook" 1646229685082
+event,host=UK245321 title="Step Start",text="I create and send \"3\" emails" 1646229690831
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229712192
+event,host=UK245321 title="Step Start",text="we open \"smalltestpresentation.pptx\" from the Powerpoint home menu" 1646229716182
+event,host=UK245321 title="Step Start",text="the document \"smalltestpresentation.pptx\" will open in Powerpoint" 1646229725328
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229728747
+event,host=UK245321 title="Step Start",text="we open \"largetestpresentation.pptx\" from the Powerpoint home menu" 1646229732437
+event,host=UK245321 title="Step Start",text="the document \"largetestpresentation.pptx\" will open in Powerpoint" 1646229741509
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229744780
+event,host=UK245321 title="Step Start",text="we open \"mediumtestpresentation.pptx\" from the Powerpoint home menu" 1646229748308
+event,host=UK245321 title="Step Start",text="the document \"mediumtestpresentation.pptx\" will open in Powerpoint" 1646229757454
+event,host=UK245321 title="Step Start",text="we open powerpoint presentation \"largetestpresentation.pptx\"" 1646229760742
+event,host=UK245321 title="Step Start",text="we run the presentation" 1646229773285
+event,host=UK245321 title="Step Start",text="the slide presentation will begin" 1646229774465
+event,host=UK245321 title="Step Start",text="we have created a presentation" 1646229780222
+event,host=UK245321 title="Step Start",text="We insert \"retromusic.m4a\" sound clip into the presentation" 1646229787556
+event,host=UK245321 title="Step Start",text="the sound clip will be inserted into the presentation" 1646229794517
+event,host=UK245321 title="Step Start",text="we have created a presentation" 1646229798911
+event,host=UK245321 title="Step Start",text="We insert \"captainron2.png\" into the presentation" 1646229806381
+event,host=UK245321 title="Step Start",text="the image will be displayed in the presentation" 1646229813683
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229818440
+event,host=UK245321 title="Step Start",text="the Powerpoint Welcome screen is displayed" 1646229822086
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229825408
+event,host=UK245321 title="Step Start",text="we select \"Blank Presentation\" from the home screen" 1646229828688
+event,host=UK245321 title="Step Start",text="a new presentation will be created" 1646229832577
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229836098
+event,host=UK245321 title="Step Start",text="we select \"Floral flourish\" from the home screen" 1646229839533
+event,host=UK245321 title="Step Start",text="a new presentation will be created" 1646229842882
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229845845
+event,host=UK245321 title="Step Start",text="we select \"Urban monochrome\" from the home screen" 1646229849291
+event,host=UK245321 title="Step Start",text="a new presentation will be created" 1646229852620
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229855601
+event,host=UK245321 title="Step Start",text="we select \"Earthy inspiration\" from the home screen" 1646229859013
+event,host=UK245321 title="Step Start",text="a new presentation will be created" 1646229862346
+event,host=UK245321 title="Step Start",text="we have created a presentation" 1646229865289
+event,host=UK245321 title="Step Start",text="we save the presentation into specified directory" 1646229872539
+event,host=UK245321 title="Step Start",text="the presentation will be created and saved in the directory" 1646229881995
+event,host=UK245321 title="Step Start",text="we open powerpoint" 1646229886771
+event,host=UK245321 title="Step Start",text="we open \"mediumtestpresentation.pptx\" from the Powerpoint home menu" 1646229890487
+event,host=UK245321 title="Step Start",text="we save the presentation as a pdf file" 1646229899624
+event,host=UK245321 title="Step Start",text="I have a React project to install" 1646229914717
+event,host=UK245321 title="Step Start",text="I can install the project" 1646229920056
+event,host=UK245321 title="Step Start",text="Skype is open" 1646230032462
+event,host=UK245321 title="Step Start",text="I initiate a chat with another user" 1646230035264
+event,host=UK245321 title="Step Start",text="I type a message" 1646230041688
+event,host=UK245321 title="Step Start",text="The message is sent to the user" 1646230049281
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230055051
+event,host=UK245321 title="Step Start",text="I create a team" 1646230065048
+event,host=UK245321 title="Step Start",text="the team exists" 1646230084515
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230097014
+event,host=UK245321 title="Step Start",text="I have the Team general page displayed" 1646230110049
+event,host=UK245321 title="Step Start",text="I add a contact to the Team" 1646230132243
+event,host=UK245321 title="Step Start",text="the contact will become a member of Team" 1646230143223
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230151978
+event,host=UK245321 title="Step Start",text="I have a team with a member" 1646230162477
+event,host=UK245321 title="Step Start",text="I make a member of the team an owner" 1646230194612
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230213867
+event,host=UK245321 title="Step Start",text="I have a team with a member" 1646230224758
+event,host=UK245321 title="Step Start",text="I delete a member from a team" 1646230259047
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230305104
+event,host=UK245321 title="Step Start",text="I create a new Onedrive folder in teams" 1646230313342
+event,host=UK245321 title="Step Start",text="the OneDrive folder will appear in Teams" 1646230326928
+event,host=UK245321 title="Step Start",text="I delete the folder" 1646230327727
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230337227
+event,host=UK245321 title="Step Start",text="I attach a file to a chat with a contact" 1646230346638
+event,host=UK245321 title="Step Start",text="the file will be placed into the chat" 1646230367054
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230373819
+event,host=UK245321 title="Step Start",text="I place a test call to a contact" 1646230382708
+event,host=UK245321 title="Step Start",text="the calling window will display" 1646230389212
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230408397
+event,host=UK245321 title="Step Start",text="I send a message to a contact" 1646230419285
+event,host=UK245321 title="Step Start",text="the message will display as sent" 1646230430834
+event,host=UK245321 title="Step Start",text="I have Microsoft Teams open" 1646230437442
+event,host=UK245321 title="Step Start",text="i open the calendar" 1646230445485
+event,host=UK245321 title="Step Start",text="i can create a meeting and invite a contact" 1646230448003
+event,host=UK245321 title="Step Start",text="we open word" 1646230456666
+event,host=UK245321 title="Step Start",text="we open word" 1646230465651
+event,host=UK245321 title="Step Start",text="we open \"largewordfile.docx\" from the Word home menu" 1646230469387
+event,host=UK245321 title="Step Start",text="the document \"largewordfile.docx\" will open in word" 1646230477430
+event,host=UK245321 title="Step Start",text="we open word" 1646230481678
+event,host=UK245321 title="Step Start",text="we click on Blank Document from the Home menu" 1646230485671
+event,host=UK245321 title="Step Start",text="a new blank document will be created and displayed" 1646230486029
+event,host=UK245321 title="Step Start",text="we have created a Word document and have populated the body with text" 1646230490757
+event,host=UK245321 title="Step Start",text="we save the file into the specified directory" 1646230496946
+event,host=UK245321 title="Step Start",text="the document will be created and saved in the directory" 1646230508450
+event,host=UK245321 title="Step Start",text="we have created a new Word document" 1646230513606
+event,host=UK245321 title="Step Start",text="We insert \"CptRon.PNG\" from the users local storage" 1646230517790
+event,host=UK245321 title="Step Start",text="an image will be inserted onto the document" 1646230528008
+event,host=UK245321 title="Step Start",text="we have \"spellcheckdoc.docx\" document open" 1646230533291
+event,host=UK245321 title="Step Start",text="we have ran the spellcheck on the document" 1646230545751
+event,host=UK245321 title="Step Start",text="we correct a typo in the document" 1646230552283
+event,host=UK245321 title="Step Start",text="we have \"doctoprinttopdf\" document open" 1646230556348
+event,host=UK245321 title="Step Start",text="we save document as a pdf document" 1646230568763
+event,host=UK245321 title="Step Start",text="a pdf file will be created in temp diectory" 1646230579166
+event,host=UK245321 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646230584290
+event,host=UK245321 title="Step Start",text="we copy a section of text from the document" 1646230597693
+event,host=UK245321 title="Step Start",text="we paste the section of text into a new document" 1646230598103
+event,host=UK245321 title="Step Start",text="we have \"doctocopypaste\" document open" 1646230608761
+event,host=UK245321 title="Step Start",text="we create a new document from the Word File menu" 1646230620871
+event,host=UK245321 title="Step Start",text="a new document will be open" 1646230622912
+event,host=UK245321 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646230628221
+event,host=UK245321 title="Step Start",text="we search the document for a string of text" 1646230641313
+event,host=UK245321 title="Step Start",text="the search results will be retrieved" 1646230643165
+event,host=UK245321 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646230651222
+event,host=UK245321 title="Step Start",text="we scroll down the document" 1646230664037
+event,host=UK245321 title="Step Start",text="we scroll up the document" 1646230664575
+event,host=UK245321 title="Step Start",text="we have \"doctocopypaste\" document open" 1646230668265
+event,host=UK245321 title="Step Start",text="we open multiple documents" 1646230680155
+event,host=UK245321 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646230706744
+event,host=UK245321 title="Step Start",text="we highlight a block of text" 1646230719374
+event,host=UK245321 title="Step Start",text="press the delete key to delete the text" 1646230719678
+event,host=UK245321 title="Step Start",text="we double click on a document from the specified directory" 1646230723891
+event,host=UK245321 title="Step Start",text="the document will open in Word" 1646230730883

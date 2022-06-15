@@ -1,0 +1,246 @@
+event,host=IE-023381 title="Step Start",text="I have Chrome open on the BBC homepage" 1646909689851
+event,host=IE-023381 title="Step Start",text="I follow the news link in chrome" 1646909694595
+event,host=IE-023381 title="Step Start",text="I am on the BBC news homepage in chrome" 1646909695910
+event,host=IE-023381 title="Step Start",text="I have Chrome open on the BBC homepage" 1646909698618
+event,host=IE-023381 title="Step Start",text="I can open multiple tabs in chrome" 1646909702424
+event,host=IE-023381 title="Step Start",text="I have Edge open on the BBC homepage" 1646909764298
+event,host=IE-023381 title="Step Start",text="I follow the news link in edge" 1646909768361
+event,host=IE-023381 title="Step Start",text="I am on the BBC homepage in edge" 1646909769630
+event,host=IE-023381 title="Step Start",text="I have Edge open on the BBC homepage" 1646909772291
+event,host=IE-023381 title="Step Start",text="I can open multiple tabs in edge" 1646909776362
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646909838832
+event,host=IE-023381 title="Step Start",text="we insert a large group of data" 1646909850017
+event,host=IE-023381 title="Step Start",text="the data \"Random_number\" will appear within \"A1\"" 1646909858293
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"formatcells.xlsx\"" 1646909863869
+event,host=IE-023381 title="Step Start",text="we use the freeze panes functionality" 1646909872678
+event,host=IE-023381 title="Step Start",text="the freeze pane function will be active" 1646909876458
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"formatcells.xlsx\"" 1646909881844
+event,host=IE-023381 title="Step Start",text="we format a group of cells" 1646909892424
+event,host=IE-023381 title="Step Start",text="the cells will be formatted" 1646909896191
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"sortcolumn.xlsx\"" 1646909904802
+event,host=IE-023381 title="Step Start",text="we sort a column to ascending order" 1646909913349
+event,host=IE-023381 title="Step Start",text="the column data will be in an ascended order" 1646909916696
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"largeexcelfile.xlsx\"" 1646909924988
+event,host=IE-023381 title="Step Start",text="the workbook will open" 1646909935936
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646909941671
+event,host=IE-023381 title="Step Start",text="we click on another tab \"2\"" 1646909950163
+event,host=IE-023381 title="Step Start",text="we import a csv file into spreadsheet" 1646909955251
+event,host=IE-023381 title="Step Start",text="the csv data will be imported" 1646909984559
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"copyandsearch.xlsx\"" 1646909989919
+event,host=IE-023381 title="Step Start",text="we copy a block of cells" 1646910001028
+event,host=IE-023381 title="Step Start",text="we click on another tab \"2\"" 1646910004606
+event,host=IE-023381 title="Step Start",text="we paste the cells into a different location" 1646910007074
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"copyandsearch.xlsx\"" 1646910013045
+event,host=IE-023381 title="Step Start",text="we search for data \"A2-Value\" within the spreadsheet" 1646910021517
+event,host=IE-023381 title="Step Start",text="a range of search results will be retrieved" 1646910026676
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646910029801
+event,host=IE-023381 title="Step Start",text="we delete a block of cells" 1646910040269
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"deepexcelrandom.xlsx\"" 1646910048384
+event,host=IE-023381 title="Step Start",text="we scroll down the spreadsheet" 1646910057182
+event,host=IE-023381 title="Step Start",text="we scroll up the spreadsheet" 1646910059401
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"imagesheet.xlsx\"" 1646910062611
+event,host=IE-023381 title="Step Start",text="we insert an image \"chequeisinthemail.png\"" 1646910073057
+event,host=IE-023381 title="Step Start",text="the image will be attached onto the spreadsheet" 1646910083198
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"multipletabs.xlsx\"" 1646910087994
+event,host=IE-023381 title="Step Start",text="the workbook will open" 1646910096625
+event,host=IE-023381 title="Step Start",text="we open excel" 1646910102082
+event,host=IE-023381 title="Step Start",text="we select blank workbook from the home screen" 1646910106966
+event,host=IE-023381 title="Step Start",text="a new spreadsheet will be created" 1646910107217
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"64kb Excel file.xlsx\"" 1646910111091
+event,host=IE-023381 title="Step Start",text="the workbook will open" 1646910119779
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"ExcelCharts.xlsx\"" 1646910124108
+event,host=IE-023381 title="Step Start",text="the workbook will open" 1646910132623
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"64kb Excel file.xlsx\"" 1646910136922
+event,host=IE-023381 title="Step Start",text="we save the Excel document as a pdf file" 1646910147669
+event,host=IE-023381 title="Step Start",text="we launch Excel and open file \"64kb Excel file.xlsx\"" 1646910163165
+event,host=IE-023381 title="Step Start",text="we generate a chart from the worksheet data" 1646910181206
+event,host=IE-023381 title="Step Start",text="the chart will display on spreadsheet" 1646910187083
+event,host=IE-023381 title="Step Start",text="we have created an Excel document and have entered data into the spreadsheet" 1646910196421
+event,host=IE-023381 title="Step Start",text="we save the spreadsheet \"ExcelSaveAsTest\"" 1646910202541
+event,host=IE-023381 title="Step Start",text="the \"ExcelSaveAsTest.xlsx\" spreadsheet will be created and saved" 1646910212557
+event,host=IE-023381 title="Step Start",text="we have created an Excel document and have entered data into the spreadsheet" 1646910217457
+event,host=IE-023381 title="Step Start",text="we format a range of cells using colour scale option" 1646910225323
+event,host=IE-023381 title="Step Start",text="the cells will be formatted according to the colour scale" 1646910228041
+event,host=IE-023381 title="Step Start",text="I pull a project using git" 1646910233095
+event,host=IE-023381 title="Step Start",text="The project is pulled to the local repo" 1646910241620
+event,host=IE-023381 title="Step Start",text="I can perform some git operations" 1646910246631
+event,host=IE-023381 title="Step Start",text="run a maven build on pom.xml" 1646910248012
+event,host=IE-023381 title="Step Start",text="I have opened Notepad++" 1646911391742
+event,host=IE-023381 title="Step Start",text="I try to open a large file" 1646911393363
+event,host=IE-023381 title="Step Start",text="The file is successfully opened" 1646911410128
+event,host=IE-023381 title="Step Start",text="I have opened the Onedrive folder" 1646911413059
+event,host=IE-023381 title="Step Start",text="I add a file to the Onedrive folder" 1646911413218
+event,host=IE-023381 title="Step Start",text="The file is added successfully and uploaded" 1646911418228
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911422726
+event,host=IE-023381 title="Step Start",text="we have received an email with a pdf attachment" 1646911430735
+event,host=IE-023381 title="Step Start",text="we single click on the attachment" 1646911450666
+event,host=IE-023381 title="Step Start",text="the attachment preview will display within the email" 1646911458504
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911461513
+event,host=IE-023381 title="Step Start",text="we have received an email with a pdf attachment" 1646911472771
+event,host=IE-023381 title="Step Start",text="we save the attachment to the machine" 1646911486103
+event,host=IE-023381 title="Step Start",text="the docx attachment can be found in the download location" 1646911506573
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911508594
+event,host=IE-023381 title="Step Start",text="we create an email with attachments" 1646911517100
+event,host=IE-023381 title="Step Start",text="we send the email" 1646911534277
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911544873
+event,host=IE-023381 title="Step Start",text="we have received an email with a pdf attachment" 1646911549914
+event,host=IE-023381 title="Step Start",text="we archive an email" 1646911567622
+event,host=IE-023381 title="Step Start",text="the email can be found in the archive folder" 1646911579114
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911581281
+event,host=IE-023381 title="Step Start",text="we have received an email with a pdf attachment" 1646911586753
+event,host=IE-023381 title="Step Start",text="we open the received email" 1646911599556
+event,host=IE-023381 title="Step Start",text="then the email will open in a new window" 1646911609449
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911610323
+event,host=IE-023381 title="Step Start",text="we have received an email with a pdf attachment" 1646911618741
+event,host=IE-023381 title="Step Start",text="we move an email into the folder" 1646911636804
+event,host=IE-023381 title="Step Start",text="we delete the folder that contains an email" 1646911654455
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911659911
+event,host=IE-023381 title="Step Start",text="we have received an email with a pdf attachment" 1646911665201
+event,host=IE-023381 title="Step Start",text="we move an email into the folder" 1646911678232
+event,host=IE-023381 title="Step Start",text="the email will be found within the folder" 1646911696281
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911701574
+event,host=IE-023381 title="Step Start",text="we create a folder" 1646911706994
+event,host=IE-023381 title="Step Start",text="the folder exists" 1646911710923
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911711642
+event,host=IE-023381 title="Step Start",text="I have switched to Calendar view" 1646911716961
+event,host=IE-023381 title="Step Start",text="I click on Schedule View" 1646911717464
+event,host=IE-023381 title="Step Start",text="the Schedule View will display" 1646911718690
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911719714
+event,host=IE-023381 title="Step Start",text="we print as pdf from file menu" 1646911725393
+event,host=IE-023381 title="Step Start",text="the pdf file will be created in the specified directory" 1646911734571
+event,host=IE-023381 title="Step Start",text="we have created a meeting" 1646911736579
+event,host=IE-023381 title="Step Start",text="I double click on the meeting from within the calendar" 1646911753342
+event,host=IE-023381 title="Step Start",text="the meeting details will display" 1646911754440
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911756281
+event,host=IE-023381 title="Step Start",text="I have switched to Calendar view" 1646911768421
+event,host=IE-023381 title="Step Start",text="I invite a contact to a meeting and click send" 1646911768915
+event,host=IE-023381 title="Step Start",text="we have created a meeting" 1646911778665
+event,host=IE-023381 title="Step Start",text="I select cancel meeting from the menu" 1646911797705
+event,host=IE-023381 title="Step Start",text="meeting window will close" 1646911803637
+event,host=IE-023381 title="Step Start",text="the meeting is not in calendar" 1646911803769
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911804033
+event,host=IE-023381 title="Step Start",text="we have received an email with a pdf attachment" 1646911809639
+event,host=IE-023381 title="Step Start",text="we are on the contact page" 1646911823033
+event,host=IE-023381 title="Step Start",text="we create a contact" 1646911828909
+event,host=IE-023381 title="Step Start",text="the contact can be viewed in the contact list" 1646911836738
+event,host=IE-023381 title="Step Start",text="we are on the contact page" 1646911857077
+event,host=IE-023381 title="Step Start",text="we create a contact" 1646911863210
+event,host=IE-023381 title="Step Start",text="we select the contact and click on the delete button" 1646911870643
+event,host=IE-023381 title="Step Start",text="the contact will be deleted" 1646911871819
+event,host=IE-023381 title="Step Start",text="we open outlook" 1646911872354
+event,host=IE-023381 title="Step Start",text="I create and send \"3\" emails" 1646911878003
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646911898955
+event,host=IE-023381 title="Step Start",text="we open \"smalltestpresentation.pptx\" from the Powerpoint home menu" 1646911901526
+event,host=IE-023381 title="Step Start",text="the document \"smalltestpresentation.pptx\" will open in Powerpoint" 1646911911501
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646911914723
+event,host=IE-023381 title="Step Start",text="we open \"largetestpresentation.pptx\" from the Powerpoint home menu" 1646911916945
+event,host=IE-023381 title="Step Start",text="the document \"largetestpresentation.pptx\" will open in Powerpoint" 1646911926651
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646911929819
+event,host=IE-023381 title="Step Start",text="we open \"mediumtestpresentation.pptx\" from the Powerpoint home menu" 1646911931942
+event,host=IE-023381 title="Step Start",text="the document \"mediumtestpresentation.pptx\" will open in Powerpoint" 1646911941722
+event,host=IE-023381 title="Step Start",text="we open powerpoint presentation \"largetestpresentation.pptx\"" 1646911946760
+event,host=IE-023381 title="Step Start",text="we run the presentation" 1646911958746
+event,host=IE-023381 title="Step Start",text="the slide presentation will begin" 1646911960042
+event,host=IE-023381 title="Step Start",text="we have created a presentation" 1646911965695
+event,host=IE-023381 title="Step Start",text="We insert \"retromusic.m4a\" sound clip into the presentation" 1646911971656
+event,host=IE-023381 title="Step Start",text="the sound clip will be inserted into the presentation" 1646911978472
+event,host=IE-023381 title="Step Start",text="we have created a presentation" 1646911982069
+event,host=IE-023381 title="Step Start",text="We insert \"captainron2.png\" into the presentation" 1646911988256
+event,host=IE-023381 title="Step Start",text="the image will be displayed in the presentation" 1646911995113
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646911998472
+event,host=IE-023381 title="Step Start",text="the Powerpoint Welcome screen is displayed" 1646912000597
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646912003753
+event,host=IE-023381 title="Step Start",text="we select \"Blank Presentation\" from the home screen" 1646912006011
+event,host=IE-023381 title="Step Start",text="a new presentation will be created" 1646912009865
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646912012932
+event,host=IE-023381 title="Step Start",text="we select \"Floral flourish\" from the home screen" 1646912015017
+event,host=IE-023381 title="Step Start",text="a new presentation will be created" 1646912019612
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646912022970
+event,host=IE-023381 title="Step Start",text="we select \"Urban monochrome\" from the home screen" 1646912025122
+event,host=IE-023381 title="Step Start",text="a new presentation will be created" 1646912028371
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646912051452
+event,host=IE-023381 title="Step Start",text="we select \"Earthy inspiration\" from the home screen" 1646912053775
+event,host=IE-023381 title="Step Start",text="a new presentation will be created" 1646912058641
+event,host=IE-023381 title="Step Start",text="we have created a presentation" 1646912062237
+event,host=IE-023381 title="Step Start",text="we save the presentation into specified directory" 1646912068228
+event,host=IE-023381 title="Step Start",text="the presentation will be created and saved in the directory" 1646912078447
+event,host=IE-023381 title="Step Start",text="we open powerpoint" 1646912083323
+event,host=IE-023381 title="Step Start",text="we open \"mediumtestpresentation.pptx\" from the Powerpoint home menu" 1646912085475
+event,host=IE-023381 title="Step Start",text="we save the presentation as a pdf file" 1646912095260
+event,host=IE-023381 title="Step Start",text="I have a React project to install" 1646912112613
+event,host=IE-023381 title="Step Start",text="I can install the project" 1646912118128
+event,host=IE-023381 title="Step Start",text="Skype is open" 1646912201117
+event,host=IE-023381 title="Step Start",text="I initiate a chat with another user" 1646912203702
+event,host=IE-023381 title="Step Start",text="I type a message" 1646912210123
+event,host=IE-023381 title="Step Start",text="The message is sent to the user" 1646912217807
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912223337
+event,host=IE-023381 title="Step Start",text="I create a team" 1646912238987
+event,host=IE-023381 title="Step Start",text="the team exists" 1646912265538
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912285510
+event,host=IE-023381 title="Step Start",text="I have the Team general page displayed" 1646912299306
+event,host=IE-023381 title="Step Start",text="I add a contact to the Team" 1646912327741
+event,host=IE-023381 title="Step Start",text="the contact will become a member of Team" 1646912340299
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912352556
+event,host=IE-023381 title="Step Start",text="I have a team with a member" 1646912365577
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912378521
+event,host=IE-023381 title="Step Start",text="I have a team with a member" 1646912390818
+event,host=IE-023381 title="Step Start",text="I delete a member from a team" 1646912435628
+event,host=IE-023381 title="Step Start",text="the member will be removed from the team" 1646912462701
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912490925
+event,host=IE-023381 title="Step Start",text="I create a new Onedrive folder in teams" 1646912507086
+event,host=IE-023381 title="Step Start",text="the OneDrive folder will appear in Teams" 1646912522995
+event,host=IE-023381 title="Step Start",text="I delete the folder" 1646912523689
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912533904
+event,host=IE-023381 title="Step Start",text="I attach a file to a chat with a contact" 1646912548029
+event,host=IE-023381 title="Step Start",text="the file will be placed into the chat" 1646912575005
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912582030
+event,host=IE-023381 title="Step Start",text="I place a test call to a contact" 1646912594138
+event,host=IE-023381 title="Step Start",text="the calling window will display" 1646912600669
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912623799
+event,host=IE-023381 title="Step Start",text="I send a message to a contact" 1646912635623
+event,host=IE-023381 title="Step Start",text="the message will display as sent" 1646912648889
+event,host=IE-023381 title="Step Start",text="I have Microsoft Teams open" 1646912655630
+event,host=IE-023381 title="Step Start",text="i open the calendar" 1646912667509
+event,host=IE-023381 title="Step Start",text="i can create a meeting and invite a contact" 1646912671259
+event,host=IE-023381 title="Step Start",text="I have opened Visual Studio 2022" 1646912682554
+event,host=IE-023381 title="Step Start",text="I have opened a project" 1646912691366
+event,host=IE-023381 title="Step Start",text="I build the project" 1646912709364
+event,host=IE-023381 title="Step Start",text="The project is built" 1646912723800
+event,host=IE-023381 title="Step Start",text="we open word" 1646912732631
+event,host=IE-023381 title="Step Start",text="we open word" 1646912739113
+event,host=IE-023381 title="Step Start",text="we open \"largewordfile.docx\" from the Word home menu" 1646912741830
+event,host=IE-023381 title="Step Start",text="the document \"largewordfile.docx\" will open in word" 1646912750434
+event,host=IE-023381 title="Step Start",text="we open word" 1646912754645
+event,host=IE-023381 title="Step Start",text="we click on Blank Document from the Home menu" 1646912757471
+event,host=IE-023381 title="Step Start",text="a new blank document will be created and displayed" 1646912757789
+event,host=IE-023381 title="Step Start",text="we have created a Word document and have populated the body with text" 1646912761849
+event,host=IE-023381 title="Step Start",text="we save the file into the specified directory" 1646912766334
+event,host=IE-023381 title="Step Start",text="the document will be created and saved in the directory" 1646912778011
+event,host=IE-023381 title="Step Start",text="we have created a new Word document" 1646912783003
+event,host=IE-023381 title="Step Start",text="We insert \"CptRon.PNG\" from the users local storage" 1646912786042
+event,host=IE-023381 title="Step Start",text="an image will be inserted onto the document" 1646912795024
+event,host=IE-023381 title="Step Start",text="we have \"spellcheckdoc.docx\" document open" 1646912799113
+event,host=IE-023381 title="Step Start",text="we have ran the spellcheck on the document" 1646912810862
+event,host=IE-023381 title="Step Start",text="we correct a typo in the document" 1646912816834
+event,host=IE-023381 title="Step Start",text="we have \"doctoprinttopdf\" document open" 1646912820674
+event,host=IE-023381 title="Step Start",text="we save document as a pdf document" 1646912832771
+event,host=IE-023381 title="Step Start",text="a pdf file will be created in temp diectory" 1646912843611
+event,host=IE-023381 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646912849863
+event,host=IE-023381 title="Step Start",text="we copy a section of text from the document" 1646912861936
+event,host=IE-023381 title="Step Start",text="we paste the section of text into a new document" 1646912862360
+event,host=IE-023381 title="Step Start",text="we have \"doctocopypaste\" document open" 1646912871369
+event,host=IE-023381 title="Step Start",text="we create a new document from the Word File menu" 1646912882888
+event,host=IE-023381 title="Step Start",text="a new document will be open" 1646912884941
+event,host=IE-023381 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646912889584
+event,host=IE-023381 title="Step Start",text="we search the document for a string of text" 1646912901833
+event,host=IE-023381 title="Step Start",text="the search results will be retrieved" 1646912903446
+event,host=IE-023381 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646912908462
+event,host=IE-023381 title="Step Start",text="we scroll down the document" 1646912920931
+event,host=IE-023381 title="Step Start",text="we scroll up the document" 1646912921687
+event,host=IE-023381 title="Step Start",text="we have \"doctocopypaste\" document open" 1646912925069
+event,host=IE-023381 title="Step Start",text="we open multiple documents" 1646912936374
+event,host=IE-023381 title="Step Start",text="we have \"largewordfile.docx\" document open" 1646912966018
+event,host=IE-023381 title="Step Start",text="we highlight a block of text" 1646912978296
+event,host=IE-023381 title="Step Start",text="press the delete key to delete the text" 1646912978601
+event,host=IE-023381 title="Step Start",text="we double click on a document from the specified directory" 1646912982673
+event,host=IE-023381 title="Step Start",text="the document will open in Word" 1646912989986

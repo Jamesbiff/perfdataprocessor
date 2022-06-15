@@ -1,0 +1,83 @@
+event,host=IE-023381 title="Scenario Start",text="Chrome_Navigate to BBC homepage and open links in Chrome" 1646902291949
+event,host=IE-023381 title="Scenario Start",text="Chrome_Navigate to BBC homepage and open multiple links in Chrome" 1646902299223
+event,host=IE-023381 title="Scenario Start",text="Edge_Navigate to BBC homepage and open links in Edge" 1646902365790
+event,host=IE-023381 title="Scenario Start",text="Edge_Navigate to BBC homepage and open multiple links in Edge" 1646902373491
+event,host=IE-023381 title="Scenario Start",text="Excel_Insert a large group of cells" 1646902441786
+event,host=IE-023381 title="Scenario Start",text="Excel_Freeze pane" 1646902470464
+event,host=IE-023381 title="Scenario Start",text="Excel_Format group of cells" 1646902488247
+event,host=IE-023381 title="Scenario Start",text="Excel_Sort column of cells descending" 1646902511820
+event,host=IE-023381 title="Scenario Start",text="Excel_Open a large Excel document from within Excel" 1646902531804
+event,host=IE-023381 title="Scenario Start",text="Excel_Import comma separated files into spreadsheet" 1646902547984
+event,host=IE-023381 title="Scenario Start",text="Excel_Copy and paste a block of cells" 1646902597765
+event,host=IE-023381 title="Scenario Start",text="Excel_Search through spreadsheet" 1646902620539
+event,host=IE-023381 title="Scenario Start",text="Excel_Delete a block of text" 1646902637510
+event,host=IE-023381 title="Scenario Start",text="Excel_Scroll down spreadsheet" 1646902656460
+event,host=IE-023381 title="Scenario Start",text="Excel_Insert image" 1646902670506
+event,host=IE-023381 title="Scenario Start",text="Excel_Open spreadsheet with lots of multiple tabs" 1646902696212
+event,host=IE-023381 title="Scenario Start",text="Excel_Create a new spreadsheet" 1646902710838
+event,host=IE-023381 title="Scenario Start",text="Excel_Open a 60kb Excel document from within Excel" 1646902719952
+event,host=IE-023381 title="Scenario Start",text="Excel_Open spreadsheet which contains charts" 1646902732883
+event,host=IE-023381 title="Scenario Start",text="Excel_Print Excel file to pdf" 1646902745806
+event,host=IE-023381 title="Scenario Start",text="Excel_Generate a chart" 1646902772592
+event,host=IE-023381 title="Scenario Start",text="Excel_Create and save a spreadsheet using file as save option" 1646902805122
+event,host=IE-023381 title="Scenario Start",text="Excel_Conditionally format range of cells with a colour scale" 1646902826305
+event,host=IE-023381 title="Scenario Start",text="Git_Git pull" 1646902842350
+event,host=IE-023381 title="Scenario Start",text="Maven_Run Maven build" 1646902856637
+event,host=IE-023381 title="Scenario Start",text="Notepad++_Open large file in Notepad++" 1646904051345
+event,host=IE-023381 title="Scenario Start",text="Onedrive_Add 5mb file to Onedrive" 1646904072705
+event,host=IE-023381 title="Scenario Start",text="Outlook_View an attachment within an email" 1646904082304
+event,host=IE-023381 title="Scenario Start",text="Outlook_Download an attachment from an email" 1646904121526
+event,host=IE-023381 title="Scenario Start",text="Outlook_Send email with attachments" 1646904166996
+event,host=IE-023381 title="Scenario Start",text="Outlook_Archive an email" 1646904203281
+event,host=IE-023381 title="Scenario Start",text="Outlook_Open an email" 1646904239783
+event,host=IE-023381 title="Scenario Start",text="Outlook_Delete folder containing an email" 1646904270537
+event,host=IE-023381 title="Scenario Start",text="Outlook_Move email to folder" 1646904376861
+event,host=IE-023381 title="Scenario Start",text="Outlook_Create a folder within Outlook" 1646904408982
+event,host=IE-023381 title="Scenario Start",text="Outlook_View Schedule Assistant" 1646904419309
+event,host=IE-023381 title="Scenario Start",text="Outlook_Save email as PDF" 1646904427166
+event,host=IE-023381 title="Scenario Start",text="Outlook_View meeting from calendar" 1646904443837
+event,host=IE-023381 title="Scenario Start",text="Outlook_Create a meeting" 1646904464700
+event,host=IE-023381 title="Scenario Start",text="Outlook_Delete meeting from calendar" 1646904487012
+event,host=IE-023381 title="Scenario Start",text="Outlook_Attach a PDF to an Email" 1646904512687
+event,host=IE-023381 title="Scenario Start",text="Outlook_Create a contact" 1646904531831
+event,host=IE-023381 title="Scenario Start",text="Outlook_Delete a contact" 1646904566122
+event,host=IE-023381 title="Scenario Start",text="Outlook_Create and send multiple emails" 1646904585061
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Open various size presentations -- @1.1 " 1646904612234
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Open various size presentations -- @1.2 " 1646904627907
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Open various size presentations -- @1.3 " 1646904643108
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Run PowerPoint presentation" 1646904659395
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Insert a sound clip into a presentation" 1646904678186
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Insert an image into a presentation" 1646904693703
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Launch Powerpoint" 1646904709511
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Create a new presentation -- @1.1 " 1646904714614
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Create a new presentation -- @1.2 " 1646904723138
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Create a new presentation -- @1.3 " 1646904732660
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Create a new presentation -- @1.4 " 1646904760594
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Create and save a presentation" 1646904770332
+event,host=IE-023381 title="Scenario Start",text="Powerpoint_Print a presentation to pdf" 1646904791119
+event,host=IE-023381 title="Scenario Start",text="React_Install time for React project" 1646904819927
+event,host=IE-023381 title="Scenario Start",text="Skype_Initiate skype chat" 1646904902213
+event,host=IE-023381 title="Scenario Start",text="Teams_Create a Team" 1646904930021
+event,host=IE-023381 title="Scenario Start",text="Teams_Add a member to a Team" 1646904978905
+event,host=IE-023381 title="Scenario Start",text="Teams_Make a member of a team an owner" 1646905043655
+event,host=IE-023381 title="Scenario Start",text="Teams_Delete a member of the team" 1646905127369
+event,host=IE-023381 title="Scenario Start",text="Teams_Create a Onedrive folder within Teams then delete it" 1646905234745
+event,host=IE-023381 title="Scenario Start",text="Teams_Attach a file to a chat" 1646905272867
+event,host=IE-023381 title="Scenario Start",text="Teams_Place a test call" 1646905320902
+event,host=IE-023381 title="Scenario Start",text="Teams_Send a chat message" 1646905392444
+event,host=IE-023381 title="Scenario Start",text="Teams_Create a meeting" 1646905420870
+event,host=IE-023381 title="Scenario Start",text="Visual Studio 2022_Open and build project in visual studio 2022" 1646905447286
+event,host=IE-023381 title="Scenario Start",text="Word_Open Word" 1646905498964
+event,host=IE-023381 title="Scenario Start",text="Word_Open large Word document" 1646905505544
+event,host=IE-023381 title="Scenario Start",text="Word_Create a new Word document" 1646905521120
+event,host=IE-023381 title="Scenario Start",text="Word_Create and save a document using Save as from the File menu" 1646905528022
+event,host=IE-023381 title="Scenario Start",text="Word_Insert image" 1646905548885
+event,host=IE-023381 title="Scenario Start",text="Word_Use spellchecker to edit typos" 1646905565097
+event,host=IE-023381 title="Scenario Start",text="Word_Print Word document to PDF" 1646905586626
+event,host=IE-023381 title="Scenario Start",text="Word_Copy and paste a block of text" 1646905614676
+event,host=IE-023381 title="Scenario Start",text="Word_Create a new document from within a document" 1646905636885
+event,host=IE-023381 title="Scenario Start",text="Word_Search through document" 1646905655131
+event,host=IE-023381 title="Scenario Start",text="Word_Scroll through pages" 1646905677874
+event,host=IE-023381 title="Scenario Start",text="Word_Open multiple documents" 1646905694483
+event,host=IE-023381 title="Scenario Start",text="Word_Highlight and delete text block" 1646905734653
+event,host=IE-023381 title="Scenario Start",text="Word_Open a Word doc from machine" 1646905751837
